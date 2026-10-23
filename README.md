@@ -36,6 +36,24 @@ It provides information about my personal details, education, technical skills, 
 - Career Goal: Describes future professional aspirations.
 - Contact Me: Provides a contact section.
 
+📥 Download the App
+
+Download the APK using the latest GITHUB 
+
+"⬇️ Download MyCV App v1.0.0" (../../releases/latest
+
+Open the release page on your Android phone.
+Download app-debug.apk.
+Open the downloaded file and follow Android's installation prompts.
+Note: This is a debug APK intended for testing.
+
+How to Run the Project
+Clone or download this repository.
+Open the project in Android Studio.
+Allow Gradle to sync.
+Connect an Android phone or start an emulator.
+Run the app from Android Studio.
+
 📱 Screenshots
 
 The following screenshot demonstrate the MyCV App.
