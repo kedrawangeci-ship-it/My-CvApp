@@ -1,22 +1,22 @@
 
-📄 MyCV App
+#📄 MyCV App
 
 A Personal Curriculum Vitae Android Application
 
-👋 About the Project
+##👋 About the Project
 
 MyCV App is an Android mobile application developed using Java and Android Studio as part of my ICT studies. The application presents my curriculum vitae (CV) in a simple, organized, and user-friendly format.
 
 It provides information about my personal details, education, technical skills, achievements, projects, hobbies, and career goals.
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
 - To develop a simple Android mobile application.
 - To practice Java programming and Android Studio.
 - To present CV information in an organized format.
 - To improve my mobile application development skills.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 - Java
 - Android Studio
@@ -24,7 +24,7 @@ It provides information about my personal details, education, technical skills, 
 - Gradle
 - Git and GitHub
 
-✨ Features
+##✨ Features
 
 - About Me: Introduces the developer and career interests.
 - Personal Details: Displays course, institution, and career information.
@@ -40,7 +40,7 @@ It provides information about my personal details, education, technical skills, 
 
 Download the APK from the latest GitHub release:
 
-**[Download My CvApp v.0](https://github.com/kedrawangeci-ship-it)/releases/latest)**
+**[Download My CvApp v.0](https://github.com/kedrawangeci-ship-it)**
 
 1. Open the release page on your Android phone.
 2. Download `app-debug.apk`.
@@ -55,7 +55,8 @@ Download the APK from the latest GitHub release:
 3. Allow Gradle to sync.
 4. Connect an Android phone or start an emulator.
 5. Run the app from Android Studio.
-📱 Screenshots
+   
+##📱 Screenshots
 
 The following screenshot demonstrate the MyCV App.
 
@@ -63,28 +64,28 @@ The following screenshot demonstrate the MyCV App.
 <img width="576" height="1280" alt="mycv-details png" src="https://github.com/user-attachments/assets/815d321c-1003-4e58-ad33-8be000907f2f" />
 <img width="576" height="1280" alt="mycv-home png" src="https://github.com/user-attachments/assets/9fbfb867-8008-4e54-9726-3ac4e13eeebf" />
 
-📥 Installation
+##📥 Installation
 
 1. Download the APK file from the repository if one is available.
 2. Transfer the APK to a compatible Android device.
 3. Install the application, allowing installation from that source if prompted.
 4. Open the application to view the CV.
 
-🎓 Learning Outcomes
+##🎓 Learning Outcomes
 
 This project helped me practice Android application development, Java programming, interface design, and organizing project files using GitHub.
 
-👩‍💻 Author
+##👩‍💻 Author
 
-ICT Student
+Valeliekedra Wangeci
 
-🚀 Future Improvements
+##🚀 Future Improvements
 
 - Add editable personal information.
 - Improve the user interface.
 - Add functional contact options.
 - Include more CV sections and projects.
 
-📌 Conclusion
+##📌 Conclusion
 
 MyCV App demonstrates my practical learning in ICT and Android application development. It provides a simple way to display CV information using a mobile application.
