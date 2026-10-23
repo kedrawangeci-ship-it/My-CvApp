@@ -1,3 +1,4 @@
+
 📄 MyCV App
 
 A Personal Curriculum Vitae Android Application
@@ -40,7 +41,7 @@ It provides information about my personal details, education, technical skills, 
 The following screenshot demonstrate the MyCV App.
 
 1. Home Screen and Personal Information
-
+<img width="576" height="1280" alt="mycv-details png" src="https://github.com/user-attachments/assets/815d321c-1003-4e58-ad33-8be000907f2f" />
 <img width="576" height="1280" alt="mycv-home png" src="https://github.com/user-attachments/assets/9fbfb867-8008-4e54-9726-3ac4e13eeebf" />
 
 📥 Installation
