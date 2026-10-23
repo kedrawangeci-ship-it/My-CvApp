@@ -40,19 +40,19 @@ It provides information about my personal details, education, technical skills, 
 
 Download the APK using the latest GITHUB 
 
-"⬇️ Download MyCV App v1.0.0" (../../releases/latest
+"⬇️ Download MyCV App v.0" 
 
-Open the release page on your Android phone.
-Download app-debug.apk.
-Open the downloaded file and follow Android's installation prompts.
+-Open the release page on your Android phone.
+-Download app-debug.apk.
+-Open the downloaded file and follow Android's installation prompts.
 Note: This is a debug APK intended for testing.
 
 How to Run the Project
-Clone or download this repository.
-Open the project in Android Studio.
-Allow Gradle to sync.
-Connect an Android phone or start an emulator.
-Run the app from Android Studio.
+1.Clone or download this repository.
+2.Open the project in Android Studio.
+3.Allow Gradle to sync.
+4.Connect an Android phone or start an emulator.
+5.Run the app from Android Studio.
 
 📱 Screenshots
 
