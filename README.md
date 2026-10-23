@@ -1,3 +1,6 @@
+<img width="576" height="1280" alt="mycv-home png" src="https://github.com/user-attachments/assets/9fbfb867-8008-4e54-9726-3ac4e13eeebf" />
+<img width="576" height="1280" alt="mycv-details png" src="https://github.com/user-attachments/assets/67e0dc3e-2980-44f4-95a8-f2345fc6a1d2" />
+<img width="576" height="1280" alt="mycv-details png" src="https://github.com/user-attachments/assets/59093503-ec35-49cb-b9da-5955b0d61309" />
 📄 MyCV App
 
 A Personal Curriculum Vitae Android Application
