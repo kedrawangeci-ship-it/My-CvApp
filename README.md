@@ -37,7 +37,7 @@ It provides information about my personal details, education, technical skills, 
 
 📱 Screenshots
 
-The screenshots below demonstrate the user interface and main sections of the MyCV App.
+The following screenshots demonstrate the MyCV App.
 
 1. Home Screen and Personal Information
 
@@ -46,7 +46,6 @@ The screenshots below demonstrate the user interface and main sections of the My
 2. Skills, Achievements, Projects and Hobbies
 
 "MyCV App Details Screen" (screenshots/mycv-details.png)
-
 📥 Installation
 
 1. Download the APK file from the repository if one is available.
