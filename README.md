@@ -78,6 +78,7 @@ This project helped me practice Android application development, Java programmin
 👩‍💻 Author
 
 Valeliekedra Wangeci
+ICT Technician student |Programming| Website design-front end| Android Development.
 
 🚀 Future Improvements
 
